@@ -1,0 +1,1 @@
+[{"md5": "bef4ecab320f06d8554ea6380940ec79", "relpath": "t10k-images-idx3-ubyte.gz"}, {"md5": "ec0585c9fd176f376208a49c410749b5", "relpath": "t10k-labels-idx1-ubyte.gz"}, {"md5": "e811bdbc19e8f0bff05badcab764a5de", "relpath": "train-images-idx3-ubyte.gz"}, {"md5": "e478ea9eb3c5f14b22c8d5269ade649a", "relpath": "train-labels-idx1-ubyte.gz"}]
