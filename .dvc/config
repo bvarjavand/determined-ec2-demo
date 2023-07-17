@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /root/determined-ec2-demo/tmp/dvcsctore/
